@@ -54,8 +54,6 @@ impl<T> Default for List<T> {
 }
 
 mod test {
-    use crate::second::List;
-
     #[test]
     fn basics() {
         let mut list = crate::second::List::default();
