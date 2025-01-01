@@ -68,7 +68,7 @@ mod test {
 
     #[test]
     fn peek() {
-        let mut list = List::new();
+        let mut list = crate::second::List::new();
         assert_eq!(list.peek(), None);
         assert_eq!(list.peek_mut(), None);
         list.push(1);
