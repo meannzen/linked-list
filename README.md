@@ -1,1 +1,1 @@
-Linked list learning rust ownership , borrowing & lifetime
+Learning rust ownership , borrowing & lifetime
