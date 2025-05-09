@@ -1,4 +1,4 @@
-The advanced Rust programming entirely by having you implement 6 linked lists. In doing so, you should learn:
+I will should learn:
 
     - The following pointer types: &, &mut, Box, Rc, Arc, *const, *mut, NonNull(?)
     - Ownership, borrowing, inherited mutability, interior mutability, Copy
